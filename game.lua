@@ -6,7 +6,7 @@ local RunService = game:GetService("RunService")
 
 local WEBHOOK_URL = "https://discord.com/api/webhooks/1558276568776966227/mGCpBx4L_AgwYrpJGNnkLuJjjm9mgrN8RzEbNLUUkj1CL9AfqLArBrD7bfiDzV7IzRoThttps://discord.com/api/webhooks/1558276568776966227/mGCpBx4L_AgwYrpJGNnkLuJjjm9mgrN8RzEbNLUUkj1CL9AfqLArBrD7bfiDzV7IzRoT"
 local HUB_PLACE_ID = 15327728308
-local PING_ROLE_ID = "1558277218403098725"
+local PING_ROLE_ID = "1558292440115576852"
 local ITENS_ALVO = {"barret50", "renellim4", "m79", "backpacktier4"}
 
 -- ================================
