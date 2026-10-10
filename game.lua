@@ -172,7 +172,7 @@ if shouldPause then
         task.wait(2)
         local qt = queue_on_teleport or queueteleport or (syn and syn.queue_on_teleport)
         if qt then
-            qt([[loadstring(game:HttpGet("https://raw.githubusercontent.com/SEUREPOSITORIOAQUI/hub.lua"))()]])
+            qt([[loadstring(game:HttpGet("https://raw.githubusercontent.com/aftermath45y-collab/shark.menu-scaner/refs/heads/main/hub.lua"))()]])
         end
         TeleportService:Teleport(HUB_PLACE_ID)
     end
@@ -181,7 +181,7 @@ else
     task.wait(2)
     local qt = queue_on_teleport or queueteleport or (syn and syn.queue_on_teleport)
     if qt then
-        qt([[loadstring(game:HttpGet("https://raw.githubusercontent.com/SEUREPOSITORIOAQUI/hub.lua"))()]])
+        qt([[loadstring(game:HttpGet("https://raw.githubusercontent.com/aftermath45y-collab/shark.menu-scaner/refs/heads/main/hub.lua"))()]])
     end
     TeleportService:Teleport(HUB_PLACE_ID)
 end
